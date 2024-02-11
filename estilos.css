@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-image: url(file:///C:/Users/PC/Downloads/286edb7434c5cbb2f9cc5ed76320bec0.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 20%;
+    color: rgb(255, 255, 255);
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.20em;
+    background-color: rgb(255, 252, 252);
+    color: rgb(8, 8, 8);
+}
+
+#yesbtn{
+    transform: translate(-100%,0);
+}
+
+#nobtn{
+    position: absolute;
+
+}
+
